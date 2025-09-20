@@ -31,5 +31,3 @@ These dashboards are designed to demonstrate my ability to transform raw dataset
 
 ---
 
-## 📂 Repository Structure  
-
